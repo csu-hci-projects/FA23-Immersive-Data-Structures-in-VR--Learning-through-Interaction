@@ -6,6 +6,12 @@ AR introduces a dynamic, three-dimensional platform for data visualization, maki
 ### Project Implementation
 The project is implemented for mobile devices.So here we are basically using Plot-AR Python package with which we are using the Data Sets and Visualizing them in the 3D AR Environment. 
 
+### How to Install 
+
+- Download the Code Folder and put everything in one location
+- Now open the jupyter notebook and configure plotAR library in python
+- If it's not installed do ' pip install plotAR' and it get's installed. If it's not then we can have the above plotAR folder in same path as .ipynb files which helps in plotAR working.
+- Next Run the code !! 
 
 ### How to Use
 
