@@ -30,14 +30,17 @@ Alternatively, if you prefer a static model for analysis:
 These steps provide two options for viewing 3D plots generated from the Jupyter Notebook—either interactively in AR or as static models in supported file formats on mobile devices.
 
 ### Video Links 
-
+- Demo + Code Video - [Link](https://colostate-my.sharepoint.com/:v:/g/personal/suchithv_colostate_edu/EadUVwZCUyRCrsq9WeO3pgQBqjLJBmMpLqhjZU5IPQlJhA?e=aOUrf6)
+- Presentation Video - [Link](https://colostate-my.sharepoint.com/:v:/g/personal/suchithv_colostate_edu/Ea9zk2XGOLFLhz5GaPEgz9EBwCYVewJwCTXwwHjjCAXyQw?e=omwQBa)
+- Short Video - [Link](https://colostate-my.sharepoint.com/:v:/g/personal/suchithv_colostate_edu/EX3li2EIzjVOvNZGsFKkh8YBGXbf_ANs-brwOFTIe4oTMA?e=Sz6QSf)
 
 ### GitHub Project Link
 
+[Link](https://github.com/csu-hci-projects/FA23-Immersive-Data-Structures-in-VR-Learning-through-Interaction) 
 
 ### Overleaf Project Link 
 
-
+[Link ](https://www.overleaf.com/project/656e23f3bc6bc6d7c5869f51)
 
 ### Team
 - Suchith Reddy Vemula
