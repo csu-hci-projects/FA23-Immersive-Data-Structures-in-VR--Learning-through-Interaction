@@ -40,7 +40,7 @@ These steps provide two options for viewing 3D plots generated from the Jupyter 
 
 ### Overleaf Project Link 
 
-[Link ](https://www.overleaf.com/project/656e23f3bc6bc6d7c5869f51)
+[Link](https://www.overleaf.com/read/yxhypsnmjbzc#7d2417)
 
 ### Team
 - Suchith Reddy Vemula
